@@ -12,13 +12,13 @@ from source.
 
 ## Attributes
 
-* `ruby/version`: string containing the ruby version you want to install.
-  Default: "1.9.2-p180"
+* `exiftool/version`: string containing the exiftool version you want to
+  install.  Default: "8.60"
 
 
 ## Recipes
 
-* `ruby1.9`: installs Ruby from source.
+* `exiftool`: installs Ruby from source.
 
 
 ## Legal

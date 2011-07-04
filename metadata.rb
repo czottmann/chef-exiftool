@@ -1,7 +1,7 @@
 maintainer        "Carlo Zottmann"
 maintainer_email  "carlo@zottmann.org"
 license           "WTFPL"
-description       "Installs exiftool 8.60 from source"
+description       "Installs exiftool from source"
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.mdown'))
 version           "1.0"
 supports          ubuntu
