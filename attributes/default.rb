@@ -1,0 +1,1 @@
+default[:exiftool][:version] = "8.60"

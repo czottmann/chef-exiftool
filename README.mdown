@@ -1,0 +1,28 @@
+# chef-exiftool
+
+Installs [exiftool 8.60](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
+from source.
+
+
+## Cookbook Requirements
+
+* apt
+* build-essential
+
+
+## Attributes
+
+* `ruby/version`: string containing the ruby version you want to install.
+  Default: "1.9.2-p180"
+
+
+## Recipes
+
+* `ruby1.9`: installs Ruby from source.
+
+
+## Legal
+
+* Written by [Carlo Zottmann](http://github.com/carlo/)
+* Liability in case of anything: definitely not me.
+* License: [WTFPL](http://en.wikipedia.org/wiki/WTFPL).
