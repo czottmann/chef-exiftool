@@ -18,7 +18,7 @@ from source.
 
 ## Recipes
 
-* `exiftool`: installs Ruby from source.
+* `exiftool`: installs exiftool from source.
 
 
 ## Legal
