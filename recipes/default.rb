@@ -12,7 +12,7 @@ execute "get, unpack, configure & make exiftool #{ node[:exiftool][:version] }" 
   filename = "Image-ExifTool-#{ node[:exiftool][:version] }"
   cmmnd = [
     "cd /usr/src",
-    "wget http://www.sno.phy.queensu.ca/~phil/exiftool/#{filename}.tar.gz",
+    "wget http://search.cpan.org/CPAN/authors/id/E/EX/EXIFTOOL/#{filename}.tar.gz",
     "tar -xf #{filename}.tar.gz",
     "cd #{filename}",
     "perl Makefile.PL",
