@@ -1,6 +1,6 @@
 # chef-exiftool
 
-Installs [exiftool 8.60](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
+Installs [exiftool 8.77](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
 from source.
 
 
@@ -13,7 +13,7 @@ from source.
 ## Attributes
 
 * `exiftool/version`: string containing the exiftool version you want to
-  install.  Default: "8.60"
+  install.  Default: "8.77"
 
 
 ## Recipes

@@ -1,1 +1,1 @@
-default[:exiftool][:version] = "8.60"
+default[:exiftool][:version] = "8.77"
